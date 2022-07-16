@@ -1,4 +1,4 @@
-from I4G0003346US.links.models import Link
+from links.models import Link
 from rest_framework import serializers
 
 
